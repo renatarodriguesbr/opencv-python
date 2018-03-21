@@ -9,9 +9,3 @@ Este repositório contém um código de exemplo utilizando python e opencv com h
 
 
 Você pode fazer o download do "Face-Detection.py" e rodar na sua IDE de preferência. Na pasta "data", você pode adicionar as fotos que quiser para testar o código. Apenas tenha atenção na hora de rodar. Verifique se a referência para a foto condiz com o nome da foto que realmente quer testar.
-
-O que utilizei:
-1. S.O: MACOSX
-2. IDE: Atom
-3. Python: 2.7.14
-4. Opencv: 3.4.1
